@@ -1,0 +1,15 @@
+[dependencies]
+  testnet = { path = "./testnet" }
+  testT = { path = "./testT" }
+
+[package]
+  cjc-version = "0.54.3"
+  compile-option = ""
+  description = "nothing here"
+  link-option = ""
+  name = "CoreCangjieProject"
+  output-type = "executable"
+  src-dir = ""
+  target-dir = ""
+  version = "1.0.0"
+  package-configuration = {}

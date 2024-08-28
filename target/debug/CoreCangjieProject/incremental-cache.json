@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "CoreCangjieProject": {
+      "rootPackageName": "CoreCangjieProject",
+      "fileNameHash": "8671081108990859058",
+      "timeStamp": 1724854922,
+      "buildFlag": true,
+      "exeName": "main",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "3320287432033532869",
+  "rootPackageName": "CoreCangjieProject"
+}

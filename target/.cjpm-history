@@ -1,0 +1,60 @@
+{
+  "resolves": [
+    {
+      "rootPackageName": "testT",
+      "modulePath": "/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/testT",
+      "packagePath": "/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/testT/src",
+      "fullName": "testT",
+      "isMacroPackage": false,
+      "output-type": "dynamic",
+      "compile-option": "",
+      "native-compile-option": "",
+      "customized-option": {},
+      "link-option": "",
+      "native-link-option": "",
+      "requires": [],
+      "c_libs": {},
+      "isTestPkg": false,
+      "accessLevel": "public"
+    },
+    {
+      "rootPackageName": "testnet",
+      "modulePath": "/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/testnet",
+      "packagePath": "/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/testnet/src",
+      "fullName": "testnet",
+      "isMacroPackage": false,
+      "output-type": "dynamic",
+      "compile-option": "",
+      "native-compile-option": "",
+      "customized-option": {},
+      "link-option": "",
+      "native-link-option": "",
+      "requires": [],
+      "c_libs": {},
+      "isTestPkg": false,
+      "accessLevel": "public"
+    },
+    {
+      "rootPackageName": "CoreCangjieProject",
+      "modulePath": ".",
+      "packagePath": "/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/src",
+      "fullName": "CoreCangjieProject",
+      "isMacroPackage": false,
+      "output-type": "executable",
+      "compile-option": "",
+      "native-compile-option": "",
+      "customized-option": {},
+      "link-option": "",
+      "native-link-option": "",
+      "requires": [
+        "testT",
+        "testnet"
+      ],
+      "c_libs": {},
+      "isTestPkg": false,
+      "accessLevel": "public"
+    }
+  ],
+  "binDeps": {},
+  "crossBinDeps": {}
+}

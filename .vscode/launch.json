@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cangjie (CJNative): launch",
+            "program": "/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/target/debug/bin/main",
+            "request": "launch",
+            "type": "cangjieDebug",
+            "externalConsole": false,
+            "buildBeforeLaunch": true,
+            "env": {
+                "DYLD_LIBRARY_PATH": "/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/target/debug/testnet:/Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/target/debug/testT:/Users/houlijia/Desktop/Project/Cangjie/cangjie/runtime/lib/darwin_aarch64_llvm"
+            },
+            "debugMacro": false
+        }
+    ]
+}

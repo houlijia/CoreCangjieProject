@@ -1,0 +1,14 @@
+{
+  "packageInformation": {
+    "testnet": {
+      "rootPackageName": "testnet",
+      "fileNameHash": "-4800424562233238937",
+      "timeStamp": 1724854874,
+      "buildFlag": true,
+      "exeName": "",
+      "hasSubPkgs": false
+    }
+  },
+  "jsonHash": "-795177320646548861",
+  "rootPackageName": "testnet"
+}
