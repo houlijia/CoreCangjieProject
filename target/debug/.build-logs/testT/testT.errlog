@@ -1,1 +1,10 @@
+[33mwarning[0m: unused variable:'aa'
+ [36m==>[0m /Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/testT/src/testT.cj:9:13:
+  [36m| [0m
+[36m9[0m [36m| [0m        var aa:T=a[0m
+  [36m| [0m            [33m^^ unused variable[0m
+  [36m| [0m
+  [36m#[0m [0mnote[0m: this warning can be suppressed by setting the compiler option `-Woff unused`
+
+1 warning generated, 1 warning printed.
 /Users/houlijia/Desktop/Project/Cangjie/CoreCangjieProject/target/debug/testT/libtestT.dylib: replacing existing signature
